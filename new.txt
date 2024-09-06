@@ -1,1 +1,5 @@
 Some new file
+2
+3
+4
+last line
